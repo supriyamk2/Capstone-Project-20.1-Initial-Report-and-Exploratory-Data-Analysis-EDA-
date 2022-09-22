@@ -25,4 +25,5 @@ EDA, Classification methods such as Logistic regression, and other tree based mo
 
 
 #### Outline of project
+https://github.com/supriyamk2/Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/heart_attack_prediction.ipynb
 
